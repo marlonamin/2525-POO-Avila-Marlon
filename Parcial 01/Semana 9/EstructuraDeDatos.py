@@ -249,6 +249,5 @@ def menu() -> None:
         else:
             print("Opción inválida. Intente de nuevo.")
 
-
 if __name__ == "__main__":
     menu()
